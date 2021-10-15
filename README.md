@@ -23,7 +23,7 @@ $ python .\decrypt-cookie.py -c "C:\Users\USER\AppData\Local\Microsoft\Edge\User
 ```
 - example usage for Chrome without saving output to file:
 ```bash
-PS C:\Users\PA51NA\Onedrive - NN\desktop\Tools\py-decrypt-chrome-cookies> python .\decrypt-cookie.py -c "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Default\Cookies" -l "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Local State"
+$ python .\decrypt-cookie.py -c "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Default\Cookies" -l "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Local State"
 - decrytion starts
 - cookie SignInStateCookie (for site .login.microsoftonline.com):
 CAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXfaQ
